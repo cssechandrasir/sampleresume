@@ -10,4 +10,4 @@ B.Tech | 4 Years
 Inter  | 2 Years
 SSC    | 10 Years
 ### Certificate
-[!certificate]
+![certificate] (/samplecertificate.jpg)
